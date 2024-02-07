@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', sans-serif;
+  }
+  
+  .banner-site {
+    background-image: url("../img/Banner\ promoção\ orgânico\ rosado2.png");
+    
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .titulo-site {
+    color: #fbec5d;
+    margin-bottom: 10px;
+    font-size: 30px;
+  }
+  
+  .subtitulo-site {
+    color: #92e2f5;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: 300;
+  }
+  
+  .ancora-conheca-sobre-mim {
+    background-color: #fbec5d;
+    border: 1px solid #92e2f5;
+    text-decoration: none;
+    padding: 6px 20px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    color: #ff8894;
+    font-weight: bold;
+  }
+  
+  .section-sobre-mim {
+    color:#020269;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 30px;
+    width: 85%;
+  }
+  
+  .div-lado-esquerdo {
+    margin-right: 50px;
+  }
+  
+  .paragrafo-sobre-mim {
+    margin-bottom: 25px;
+  }
+  
+  .titulo-sobre-mim {
+    color: #ff8894;
+    padding: 0 50px;
+    margin-top: 40px;
+  }
+  
+  .titulo-minhas-habilidades {
+    color: #ff8894;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .ancora-conheca-meu-site {
+    background-color: #e9967a;
+    color: #fbec5d;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 6px 20px;
+    border-radius: 20px;
+  }
+  
+  .ancora-conheca-meu-site:hover {
+    background-color: #889eff;
+  }
+  
+  .section-redes-sociais {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 40px;
+  }
+  
+  .card-redes-sociais {
+    background-color: #ff8894;
+    width: 130px;
+    height: 150px;
+    border-top-right-radius: 10%;
+      border-top-left-radius: 10%;
+      border-bottom-right-radius: 10%;
+      border-bottom-left-radius: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fbec5d;
+    text-decoration: none;
+  }
+  
+  .nome-rede-social {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .nome-usuario-rede-social {
+    font-size: 15px;
+  }
+  
+  .destaque-nome {
+    color: #ff8894;
+    font-weight: bold;
+  }
+  
+  .icone-rede-social {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 15px;
+  }
+  
+  
+  .div-teste {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+  }
